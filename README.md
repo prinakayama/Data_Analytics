@@ -1,7 +1,7 @@
 <h1 align="center">
     
 <p align="center">
-<img src= "" width="20%" height="20%"/>
+
 
 
 <h1 align="center"><b>Intensivo em Data Analytics </b></h1>
