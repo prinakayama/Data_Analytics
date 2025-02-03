@@ -1,7 +1,22 @@
 <h1 align="center">
     
 <p align="center">
-<img src= "https://github.com/prinakayama/Data_Analytics/issues/1#issue-2828700563" width="20%" height="20%"/>
+<img src= "" width="20%" height="20%"/>
 
 
 <h1 align="center"><b>Intensivo em Data Analytics </b></h1>
+
+
+<p align="center"> 
+
+### Introdução à Ciência de Dados 
+
+
+### Termos Estatísticos 
+
+### Medidas de Posição 
+1. Média
+2. Mediana
+3. Percentis
+4. Moda
+
